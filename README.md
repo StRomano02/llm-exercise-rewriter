@@ -1,4 +1,4 @@
-# Personalized Math Exercise Rewriter — Proof of Concept
+# Personalized Math Exercise Rewriter, Proof of Concept
 
 This project explores how mathematics can become more engaging and intuitive through **personalized learning experiences**.
 
@@ -20,7 +20,7 @@ Based on these inputs, an LLM rewrites the context of the chosen math problem wh
 - Choose among **17 Swedish high school programmes**, including:
   - Science (NA), Technology (TE), Economics (EK), Social Sciences (SA), Humanities (HU), Arts (ES), and the full set of Vocational programmes  
 - Add **personal interests** with custom details  
-- Pick from **15 curated exercises** across the 1a–1b–1c levels  
+- Pick from **15 curated exercises** across the 1a/1b/1c levels  
 - Get a rewritten exercise where:
   - ✔️ the math stays identical  
   - ✔️ only the *context* changes  
