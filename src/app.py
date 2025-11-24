@@ -27,6 +27,11 @@ st.markdown("""
 
 
 st.title(" Mappi – Personalized Exercise Proof of Concept")
+st.write("""
+**Insert your school programme, tell us about your interests, choose an exercise,  
+and discover your new favourite way to learn mathematics — personalized, engaging, and tailored just for you.**
+""")
+
 
 
 # ============================
